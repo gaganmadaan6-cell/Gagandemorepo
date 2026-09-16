@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "adfgagangithub"
+		},
+		"AzureGitDemo_connectionString": {
+			"value": ""
 		}
 	}
 }
