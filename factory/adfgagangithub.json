@@ -1,0 +1,15 @@
+{
+	"name": "adfgagangithub",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "850c8721-3aa1-49b8-8204-9840ac9cba01",
+		"tenantId": "8516ffb5-22bc-4259-92f2-ad5ef4d98a1f"
+	}
+}
