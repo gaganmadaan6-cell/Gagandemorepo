@@ -1,0 +1,19 @@
+{
+	"name": "GitDemo",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureGitDemo",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "data.txt",
+				"folderPath": "Input",
+				"container": "adfdemogagan"
+			}
+		}
+	}
+}
